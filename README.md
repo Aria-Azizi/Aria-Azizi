@@ -194,29 +194,6 @@ while (curious) {
 
 > Build it. Automate it. Observe it. Make it reliable.
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Aria-Azizi">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aria-Azizi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="Aria's GitHub statistics" />
-</a>
-<a href="https://github.com/Aria-Azizi">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aria-Azizi&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aria-Azizi&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<!--
-OPTIONAL: WakaTime coding activity
-1. Create/activate your WakaTime account and connect the coding editor(s) you use.
-2. Replace YOUR_WAKATIME_USERNAME with your actual WakaTime username.
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true)](https://wakatime.com/)
--->
-
 ## 🤝 Let's Connect
 
 I'm interested in connecting with engineers and teams working on **DevOps, SRE, Kubernetes, Platform Engineering, Cloud Infrastructure, and Observability**.
@@ -232,8 +209,6 @@ I'm interested in connecting with engineers and teams working on **DevOps, SRE, 
 ---
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Aria-Azizi&style=flat&color=blue)
 
 *Always learning. Always improving. Always automating.*
 

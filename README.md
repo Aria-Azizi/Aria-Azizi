@@ -172,7 +172,7 @@ Grade: **18.34/20**
 - Certified Kubernetes Administrator (CKA)
 - Ubuntu Linux Professional Certificate · Canonical
 - Prometheus Certified Associate (PCA) · KodeKloud
-- Dynatrace certification (credential title to be confirmed)
+- Dynatrace certification
 
 ## 🌐 Languages
 
